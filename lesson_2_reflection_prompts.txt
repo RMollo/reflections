@@ -9,10 +9,12 @@ The staging area is different from the repository, insofar as it allows a user t
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-You can stage all of the rlevant files to the single logical change, review them to make sure you have everythign you want, then make a commit. You can repeat this for each of your logical changes.
+You can stage all of the relevant files to the single logical change, review them to make sure you have everythign you want, then make a commit. You can repeat this for each of your logical changes.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches appear to be one of the most useful things we have learned thus far. Branches provide the ability to experiment with new changes/features/additions to a project without direcly editing the "official" code (in case, you know, you break something...). 
 
 How do the diagrams help you visualize the branch structure?
 
