@@ -18,6 +18,8 @@ Branches appear to be one of the most useful things we have learned thus far. Br
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams are a great way to see where exactly everything is. In the exercise we just did, we were able to see that any changes made to the coins branch would not affect the master branch. Moreover, you can see EXACTLY at what point the branch "branched off" from the master line, and compare which commits the branch missed while not connected to master.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
