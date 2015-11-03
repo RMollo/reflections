@@ -4,9 +4,10 @@ When you initialize a repository, you are creating a new repository within an ex
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area is different from the repository, insofar as it allows a user to have an additional chance for review before a commit is made. While you can go directly from a working directory to a repo, the staging area allows you to collect your thoughts and see all of your items you have scheduled to be committed. This is somewhat simiilar to the "stage" area offered by scratch.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+You can stage all of the rlevant files to the single logical change, review them to make sure you have everythign you want, then make a commit. You can repeat this for each of your logical changes.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
