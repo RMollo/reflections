@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If you're wokring on a new project feature offline on Git, when you return online, a team member may have made a change on the online experimental branch of your project on Github that could conflcit with or cause problems with interacting with your offline experimental branch.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
