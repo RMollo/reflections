@@ -24,5 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Mergiong two branches together fuses the commits from both previous branches and extends a new branch from this fusion. Sometimes, when code in the two brances conflicts, or does run flawlessly, you may have to change some lines in the first commit of new merged branch. In a diagram, we represent if certain branches were to be merged, how the would merge, and which commits would be added to the new "merged branch."
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+With automatic merging, git can add code at certain points that make sense to attempt and resolve a conflict on its own. However, it doesn't always do this correctly, and can sometimes add code which is nonsensical and breaks the program, leading you to have to go in and edit it manually, something you were trying to avoid on the first place. 
+With manual merging, merging obvously takes a little while longer, but you avoid the dangerous possibility of git automatically adding in code which negatively effects your program.
