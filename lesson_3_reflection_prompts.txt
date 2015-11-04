@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+     A perfect answer to this, is what we just did in the exercise. I pushed my reflections files to a remote repository on Github. Using a remotre repository is useful when trying to share a project that you may be working on with other people, without having to hand them your computer- you can just give the link, and they can access/view/pull/modify your project collaboratively with you.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
