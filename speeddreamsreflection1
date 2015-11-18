@@ -1,0 +1,6 @@
+
+Over the last two weeks, Conrad and I spent a significant amount of time finding out where everythign was in regards to the code. We sifted through .xml files (learned what they were as well!), various lists and stacks, and everntually got a feel for hw the whole thing worked. Our goal during the first sprint, was to add our own music to the game. While we have done so, the music played on a specific screen is tied to the .xml of that screen. For example, if I wanted to have a specific song play on the main menu, I would have to go to mainmenu.xml and have the song play on that screen. We did this for raceglscreen.xml. Raceglscreen.xml controls the screen while a race is in progress. We currently have a custom song playing while a player is racing. This is a primitive version of what we eventually want to have. Also, we changed the main menu background to a much cleaner, cooler image.
+
+Having found out how the music is played through the game, while it's quote simple to change the song on one screen, it is very tedious to change it for all of them. 
+
+Upon returning from break, our goal is to ultimately create a way for the user to switch through a selection of songs, ideally through the pause menu during a race.
